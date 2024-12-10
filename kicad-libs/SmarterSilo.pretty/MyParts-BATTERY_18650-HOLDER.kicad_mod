@@ -6,24 +6,24 @@
 	(descr "WORKS WITH 18650 CLIPS PRT-13113.")
 	(tags "WORKS WITH 18650 CLIPS PRT-13113.")
 	(property "Reference" ">NAME"
-		(at -24.53386 -0.508 0)
+		(at -0.1 0.05 0)
 		(layer "F.SilkS")
 		(uuid "511a39f9-f7ac-4877-87eb-73943b6474bc")
 		(effects
 			(font
-				(size 1.016 1.016)
-				(thickness 0.0762)
+				(size 1 1)
+				(thickness 0.1)
 			)
 		)
 	)
 	(property "Value" ">VALUE"
-		(at -24.02586 0.762 0)
+		(at 0 1.7 0)
 		(layer "F.SilkS")
 		(uuid "c6c49937-6e68-4126-8b03-c0f67584ca0d")
 		(effects
 			(font
-				(size 1.016 1.016)
-				(thickness 0.0762)
+				(size 1 1)
+				(thickness 0.1)
 			)
 		)
 	)

@@ -147,6 +147,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 232.41 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "main-nrf52-e73"
 				(path "/8640b7d9-2e5e-48c6-a85a-cc24a7b66a1a"
@@ -203,6 +212,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 232.41 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 232.41 30.48 0)
 			(effects
 				(font
@@ -275,6 +293,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 232.41 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "main-nrf52-e73"
 				(path "/8640b7d9-2e5e-48c6-a85a-cc24a7b66a1a"
@@ -331,6 +358,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 232.41 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 232.41 55.88 0)
 			(effects
 				(font

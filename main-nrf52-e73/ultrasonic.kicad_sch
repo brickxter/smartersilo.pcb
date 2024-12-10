@@ -1861,6 +1861,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 74.93) (xy 199.39 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdd5a81f-dd15-4e8e-a789-b37806aab199")
+	)
+	(wire
+		(pts
 			(xy 167.64 50.8) (xy 167.64 54.61)
 		)
 		(stroke
@@ -2376,6 +2386,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C96123"
+			(at 177.8 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abc75523-a225-4e51-b831-5f8c21ea1219")
 		)
@@ -2435,6 +2454,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 162.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C96123"
 			(at 162.56 40.64 0)
 			(effects
 				(font
@@ -2643,6 +2671,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1855778"
+			(at 140.97 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "17"
 			(uuid "16e6444d-ca71-444c-9021-bf5a8ecfb25d")
 		)
@@ -2759,6 +2796,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 123.19 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 123.19 63.5 0)
 			(effects
 				(font
@@ -3036,6 +3082,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 224.79 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ecd1dda-b1a4-4a94-9160-c19f1ea62a79")
 		)
@@ -3095,6 +3150,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 185.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4211"
 			(at 185.42 81.28 0)
 			(effects
 				(font
@@ -3171,6 +3235,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22859"
+			(at 153.67 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "924bb0c9-6dbc-4f47-b9cf-8d7f0ea54dda")
 		)
@@ -3230,6 +3303,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 167.64 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C96123"
 			(at 167.64 58.42 0)
 			(effects
 				(font
@@ -3371,6 +3453,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22775"
+			(at 118.11 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a9abb7cf-f98f-47eb-86c4-45420340b5a1")
 		)
@@ -3504,6 +3595,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C57112"
+			(at 158.75 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5159056-c86a-4115-b24c-8b2f8c7f4ea5")
 		)
@@ -3514,6 +3614,72 @@
 			(project "main-nrf52-e73"
 				(path "/8640b7d9-2e5e-48c6-a85a-cc24a7b66a1a/f500bce4-2db0-42cc-af0b-38b381f78534"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 199.39 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b76915c7-0e21-48c2-bd66-93bb67fc097c")
+		(property "Reference" "#PWR027"
+			(at 199.39 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 199.39 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 199.39 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90d227b1-f048-44db-93a3-6f2eed469dd6")
+		)
+		(instances
+			(project "main-nrf52-e73"
+				(path "/8640b7d9-2e5e-48c6-a85a-cc24a7b66a1a/f500bce4-2db0-42cc-af0b-38b381f78534"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -3633,6 +3799,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 199.39 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23178"
 			(at 199.39 69.85 0)
 			(effects
 				(font
@@ -3774,6 +3949,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1664"
+			(at 176.53 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e7e0ba4-77ca-4cca-a5e1-177b2f230ea5")
 		)
@@ -3814,7 +3998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.6052 92.71 0)
 			(effects
 				(font
@@ -3833,6 +4017,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 167.64 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 167.64 88.9 0)
 			(effects
 				(font
@@ -3901,6 +4094,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 187.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 187.96 69.85 0)
 			(effects
 				(font

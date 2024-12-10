@@ -1762,7 +1762,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "CHARGING"
 			(at 147.32 61.2774 90)
 			(effects
 				(font
@@ -1790,6 +1790,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2286"
 			(at 143.51 58.42 0)
 			(effects
 				(font
@@ -1868,6 +1877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C4184"
+			(at 142.24 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c742771-f74d-4018-bc1a-df786cf83f8d")
 		)
@@ -1930,6 +1948,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 182.88 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 182.88 52.07 0)
 			(effects
 				(font
@@ -2008,6 +2035,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 166.37 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4ca35ce8-1f1e-4ec1-a7c1-8d119c84a0d5")
 		)
@@ -2070,6 +2106,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 143.51 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23138"
 			(at 143.51 48.26 0)
 			(effects
 				(font
@@ -2148,6 +2193,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C21190"
+			(at 119.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ed33295-6da2-4f05-86d6-c4c0f055bc70")
 		)
@@ -2216,6 +2270,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C524795"
+			(at 119.38 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "355c38a9-7103-4d14-85b0-f8c0d95aead1")
 		)
@@ -2276,7 +2339,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar"
+		(property "Value" "SOLAR"
 			(at 68.58 58.42 0)
 			(effects
 				(font
@@ -2303,6 +2366,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 68.58 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 68.58 64.77 0)
 			(effects
 				(font
@@ -2345,7 +2417,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "POWER_GOOD"
 			(at 160.02 61.2774 90)
 			(effects
 				(font
@@ -2373,6 +2445,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 156.21 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2286"
 			(at 156.21 58.42 0)
 			(effects
 				(font
@@ -2517,6 +2598,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 156.21 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fbc9f080-0cd3-430d-9467-2c47c92d267e")
 		)
@@ -2577,6 +2667,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 181.61 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22936"
 			(at 181.61 40.64 0)
 			(effects
 				(font
@@ -2647,6 +2746,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 101.6 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 101.6 78.74 0)
 			(effects
 				(font
@@ -2783,6 +2891,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 142.24 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76589"
 			(at 142.24 87.63 0)
 			(effects
 				(font

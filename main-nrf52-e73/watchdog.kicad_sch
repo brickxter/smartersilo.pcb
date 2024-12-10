@@ -1707,6 +1707,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28323"
+			(at 132.08 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "636dfa4a-279f-4209-b27b-a1760fe64523")
 		)
@@ -1786,6 +1795,15 @@
 				(justify right)
 			)
 		)
+		(property "LCSC" "C112138"
+			(at 152.4 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1dc2c1b5-e76f-4978-bea1-5fc4012e5b4e")
 		)
@@ -1856,6 +1874,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25803"
+			(at 81.28 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9fab32ce-cd1a-4c0a-a90c-889df891c13e")
 		)
@@ -1916,6 +1943,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 143.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 143.51 121.92 0)
 			(effects
 				(font
@@ -2063,6 +2099,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C444722"
+			(at 162.56 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e1e2179-b832-45d0-9c1d-7d293daead01")
 		)
@@ -2109,7 +2154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 49.8348 111.76 0)
 			(effects
 				(font
@@ -2128,6 +2173,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 50.8 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 50.8 115.57 0)
 			(effects
 				(font
@@ -2196,6 +2250,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 81.28 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C28323"
 			(at 81.28 91.44 0)
 			(effects
 				(font
@@ -2340,6 +2403,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C32699"
+			(at 100.33 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "b2723ea1-b743-47c9-927b-40a81bd07246")
 		)
@@ -2441,6 +2513,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 71.12 101.6 0)
 			(effects
 				(font

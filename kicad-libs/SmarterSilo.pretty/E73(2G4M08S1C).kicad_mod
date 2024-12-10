@@ -359,4 +359,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "b04b1418-d48b-4754-98ce-c32b8532f9ff")
 	)
+	(model "/home/rupp/development/smartersilo.pcb/kicad-libs/3dmodels/E73-2G4M08S1C.step"
+		(offset
+			(xyz 0 6.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
